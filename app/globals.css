@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+
+@import url("https://fonts.googleapis.com/css2?family=Newsreader:ital@1&display=swap");
+ 
+.newsreader-italic {
+  font-family: "Newsreader", serif;
+  font-style: italic;
+  font-size: 1.25rem;
+  line-height: 1.55;
+}
+ 
