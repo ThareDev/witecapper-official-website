@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { motion, type Variants } from "framer-motion";
 import { Jost } from "next/font/google";
-import aboutPortrait from "@/public/capper.jpeg";
+import aboutPortrait from "@/public/aboutcapper2.png";
 
 const sans = Jost({
   subsets: ["latin"],
